@@ -1,0 +1,15 @@
+{
+  "name": "Portafolio de Jose Montero",
+  "description": "Portafolio desarrollado con HTML5, CSS3 y Javascript. Contiene todos mis proyectos como desarrollador web fullstack",
+  "start_url": "/",
+  "lang": "es-419",
+  "theme_color": "#aa4a6e",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "maleta.icon",
+      "sizes": "128x128",
+      "type": "ico"
+    }
+  ]
+}
